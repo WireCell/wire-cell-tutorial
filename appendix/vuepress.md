@@ -16,7 +16,7 @@ npm install
 ## Start writing
 
 ```bash
-git clone https://github.com/czczc/wire-cell-tutorial
+git clone https://github.com/WireCell/wire-cell-tutorial
 cd wire-cell-tutorial
 npm run dev
 ```
@@ -24,5 +24,5 @@ npm run dev
 Now start editing the markdown files, and you should see changes at `http://localhost:8080/` . Once everything looks fine, you should commit the changes to GitHub and wait for Travis-CI to rebuild the site.
 
 <!-- ::: tip
-With permission you can build and deploy the pages yourself using the [deploy.sh](https://github.com/czczc/wire-cell-tutorial/blob/master/deploy.sh) script.
+With permission you can build and deploy the pages yourself using the [deploy.sh](https://github.com/WireCell/wire-cell-tutorial/blob/master/deploy.sh) script.
 ::: -->
