@@ -8,7 +8,7 @@ module.exports = {
     // }
   },
   themeConfig: {
-    repo: 'czczc/wire-cell-tutorial',
+    repo: 'WireCell/wire-cell-tutorial',
     repoLabel: 'GitHub',
     editLinks: true,
     logo: "/img/logo.png",
